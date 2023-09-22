@@ -1,23 +1,42 @@
 body{
     font-family: 'Lora', serif !important;
 }
+.head1{
+    width: 100%;
+    height:40px;
+    background-color: rgb(98, 144, 204);
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5));
+
+}
+.img2{
+    width:20px !important;
+    padding-bottom: 12px;
+    margin-left: 35px;
+}
+.link2{
+    text-decoration: none;
+}
+.row1{
+    padding-left: 180px;
+}
 .nav-link:hover{
     color: black !important;
 }
 
 .inner12{
     width: 100%;
-    height: 100vh;
+    height: 80vh;
    
 }
 .bg-img-1{
-background-image: url(./backpacker-standing-sunrise-viewpoint-ja-bo-village-mae-hong-son-province-thailand.jpg);
+background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(./backpacker-standing-sunrise-viewpoint-ja-bo-village-mae-hong-son-province-thailand.jpg);
 }
 .bg-img-2{
-    background-image: url(./rest-sunshine-atoll-bungalow-holiday.jpg);
+    /* background-image: url(./rest-sunshine-atoll-bungalow-holiday.jpg); */
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(./rest-sunshine-atoll-bungalow-holiday.jpg);
     }
 .bg-img-3{
-        background-image: url(./landscape-morning-fog-mountains-with-hot-air-balloons-sunrise.jpg);
+        background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(./landscape-morning-fog-mountains-with-hot-air-balloons-sunrise.jpg);
         }
 
 .carousel-image{
@@ -33,7 +52,7 @@ h1.pic1{
     align-items: center ;
     justify-content: center;
     text-align: center;
-    padding-top: 225px;
+    padding-top: 280px;
     font-family: 'Dancing Script', cursive;
 }
 
@@ -100,7 +119,7 @@ section{
  }
  .footer{
     width: 100vw;
-    height: 80vh;
+    height: 60vh;
     background-image:linear-gradient(rgba(0,0,0,0.90),rgba(0,0,0,0.90)) ,url(./nomad-bikers-iSzWFMq5pIc-unsplash.jpg);
     background-position: center;
     background-size: cover;
@@ -128,7 +147,7 @@ section{
   }
   .form{
     width: 100%;
-    height: 70vh;
+    height: 55vh;
     background-color: rgb(44, 132, 248);
     background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5));
    
