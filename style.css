@@ -1,0 +1,170 @@
+body{
+    font-family: 'Lora', serif !important;
+}
+.head1{
+    width: 100%;
+    height:40px;
+    background-color: rgb(98, 144, 204);
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5));
+
+}
+.img2{
+    width:20px !important;
+    padding-bottom: 12px;
+    margin-left: 35px;
+}
+.link2{
+    text-decoration: none;
+}
+.row1{
+    padding-left: 180px;
+}
+.nav-link:hover{
+    color: black !important;
+}
+
+.inner12{
+    width: 100%;
+    height: 80vh;
+   
+}
+.bg-img-1{
+background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(./backpacker-standing-sunrise-viewpoint-ja-bo-village-mae-hong-son-province-thailand.jpg);
+}
+.bg-img-2{
+    /* background-image: url(./rest-sunshine-atoll-bungalow-holiday.jpg); */
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(./rest-sunshine-atoll-bungalow-holiday.jpg);
+    }
+.bg-img-3{
+        background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(./landscape-morning-fog-mountains-with-hot-air-balloons-sunrise.jpg);
+        }
+
+.carousel-image{
+    width: 100%;
+    height: 100vh !important;
+    background-position:center;
+    background-size: cover; 
+}
+.choice{
+    padding-top: 50px;
+}
+h1.pic1{
+    align-items: center ;
+    justify-content: center;
+    text-align: center;
+    padding-top: 280px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.card1{
+    background-color: rgb(44, 132, 248);
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5));
+}
+img.whats{
+   padding-left: 80%;
+   padding-top: 12%;
+}
+.fd{
+    font-size:xx-large;
+}
+.pic3{
+    width: 40px !important;
+    padding-left: 12px;
+    border: 1px solid rgb(0, 162, 255);
+    margin-left: 5px;
+}
+.bod{
+    border: 1px solid rgb(0, 162, 255);
+}
+.main2{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.main3{
+    font-family: 'Lora', serif;
+font-family: 'Teko', sans-serif;
+}
+.pic4{
+    height: 550px;
+}
+main{
+    background-color: rgb(224, 234, 243);
+}
+.sidebar{
+    width: 100%;
+    height: 100px;
+    
+}
+section{
+    font-family: 'Arvo', serif;
+     font-family: 'Josefin Sans', sans-serif;
+}
+.testmon{
+    border: 1px solid rgb(90, 124, 189);
+    padding:20px 20px;
+    
+}
+.simon{
+    width: 100px;
+    
+}
+.simon1{
+    border: 1px solid rgb(90, 124, 189);
+}
+.rtz{
+        display:block;
+        width:100% ;/*or whatever width you want the effect of <hr>*/
+        border-top: 1px solid #0e0d0d;
+     }
+ .pic5{
+    width: 100px;
+    border-radius: 50%;
+ }
+ .footer{
+    width: 100vw;
+    height: 60vh;
+    background-image:linear-gradient(rgba(0,0,0,0.90),rgba(0,0,0,0.90)) ,url(./nomad-bikers-iSzWFMq5pIc-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-top: 115px;
+    
+ }
+ 
+
+ .footlist{
+    list-style: none;
+    line-height: 35px;
+ }
+ .star{
+    position: absolute;
+    top: 10;
+    left: 20;
+    transform: translate(-50% -50%);
+ }
+ .checked {
+    color: orange;
+  }
+  .pic6{
+    width: 50px;
+    border-radius: 50%;
+  }
+  .form{
+    width: 100%;
+    height: 55vh;
+    background-color: rgb(44, 132, 248);
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5));
+   
+  }
+  .formin{
+    border:whitesmoke;
+    background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1));
+    width: 80%;
+    height: 5vh;
+  }
+  .news{
+    background-color: rgb(228, 235, 247);
+  }
+  .icon8{
+    margin-top: 32vh;
+    margin-left: 2vw;
+    background-color: black;
+  }
